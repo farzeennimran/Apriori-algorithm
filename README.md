@@ -8,22 +8,22 @@ This project focuses on the Apriori algorithm, which is widely used in market ba
 
 ## Explanation of the Code
 
-1) Installation
+1) Installation:
    To get started, we need to install the necessary libraries
 
-2) Data Preparation
+2) Data Preparation:
    We begin by loading and preprocessing the dataset
 
-3) Data Transformation
+3) Data Transformation:
    We convert the dataset into a suitable format for association rule mining
 
-4) One-Hot Encoding
+4) One-Hot Encoding:
    One-hot encoding is applied to convert categorical data into a binary matrix:
 
-5) Generating and Analyzing Association Rules
+5) Generating and Analyzing Association Rules:
    We experiment with different support and confidence thresholds to find strong rules:
 
-6) Interest Measure
+6) Interest Measure:
    We calculate the interest measure, i.e, confidence and lift to rank rules based on their interestingness
 
 ## Conclusion
